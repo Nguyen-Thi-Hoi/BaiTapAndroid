@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bai6_Hoi_n4/app/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/Bai6_Hoi_n4/app/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai6_Hoi_n4/app/build/build.iml" filepath="$PROJECT_DIR$/Bai6_Hoi_n4/app/build/build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai6_Hoi_n4/app/build/intermediates/packaged_manifests/debug/debug.iml" filepath="$PROJECT_DIR$/Bai6_Hoi_n4/app/build/intermediates/packaged_manifests/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai6_Hoi_n4/app/src/main/main.iml" filepath="$PROJECT_DIR$/Bai6_Hoi_n4/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai6_Hoi_n4/app/build/intermediates/merged_manifest/debug/out/out.iml" filepath="$PROJECT_DIR$/Bai6_Hoi_n4/app/build/intermediates/merged_manifest/debug/out/out.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai6_Hoi_n4/app/src/test/test.iml" filepath="$PROJECT_DIR$/Bai6_Hoi_n4/app/src/test/test.iml" />
+    </modules>
+  </component>
+</project>

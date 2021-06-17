@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Half" android:id="@+id/option_half_item"/>
+    <item android:title="Full" android:id="@+id/option_full_item"/>
+</menu>
